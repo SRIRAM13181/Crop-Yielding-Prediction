@@ -318,7 +318,7 @@ streamlit run app.py --logger.level=debug
 
 | Phase | Feature | Timeline | Status |
 |-------|---------|----------|--------|
-| 1 | AI Chatbot | Week 1-2 | ✅ Complete |
+| 1 | AI Chatbot | Week 1-2 | ⏳ Planned |
 | 2 | User Auth & History | Week 2-3 | ⏳ Planned |
 | 3 | Data Export | Week 3-4 | ⏳ Planned |
 | 4 | Weather Integration | Week 4-5 | ⏳ Planned |
