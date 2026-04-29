@@ -1,0 +1,5 @@
+rainfall,temperature,fertilizer,humidity,soil_quality,yield
+120,30,50,70,8,300
+100,28,40,65,7,250
+90,27,35,60,6,200
+...

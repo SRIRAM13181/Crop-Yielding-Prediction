@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+matplotlib
+seaborn
+plotly
+requests
+openai>=1.0.0
+streamlit-chat>=0.1.0
+streamlit-authenticator>=0.3.0
+reportlab>=4.0.0
+openpyxl>=3.10.0
+python-dateutil>=2.8.0
